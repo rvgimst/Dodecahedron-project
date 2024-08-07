@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="99.0920000076294mm"
+   height="94.34000015258786mm"
+   viewBox="-94 -139.77799987792966 99.0920000076294 94.34000015258786"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Pentagon distr 8x a=60mm.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.6281514"
+     inkscape:cx="148.02063"
+     inkscape:cy="169.8245"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <title
+     id="title1">svgOutput</title>
+  <desc
+     id="desc1">made with tinkercad</desc>
+  <path
+     d="M -93 -103.50800323486325 L -44.45399856567383 -138.77799987792966 L 4.0920000076293945 -103.50800323486325 L -14.451000213623047 -46.43799972534179 L -74.45700073242188 -46.43799972534179 L -93 -103.50800323486325 z"
+     fill="none"
+     stroke="rgb(255,0,0)"
+     stroke-width="0.001mm"
+     id="path1"
+     style="stroke-width:0.05;stroke-dasharray:none" />
+</svg>
